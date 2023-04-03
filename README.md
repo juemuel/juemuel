@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true)](https://github.com/juemuel/juemuel)
+[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs)](https://github.com/juemuel/juemuel)
 <!--
 - hide=contribs,prs，等可以隐藏某些统计数
 - count_private=true，可以统计私人提交数
