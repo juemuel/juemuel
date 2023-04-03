@@ -7,7 +7,7 @@
 - show_icons=true，可以显示图标
 -->
 [![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true
-)](https://github.com/juemuel/juemuel)
+&theme=radical)](https://github.com/juemuel/juemuel)
 
 <!--
 - 仓库卡片模块
