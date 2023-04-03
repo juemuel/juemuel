@@ -1,5 +1,11 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Fret+not+over+bygones,+the+forward+journey+take.+)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=1000&lines=Fret+not+over+bygones,+the+forward+journey+take.+)](https://git.io/typing-svg)
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="800"  height="3">
+</div>
 
 <!--
 - Github访客统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
@@ -9,8 +15,23 @@
 - For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id},
 -->
 
+### 👋 欢迎来访
+<!--
+- 仓库卡片模块
+- show_owner=true,同时展示git仓库的所有者
+- bg_color=#E76444,#A05689
+-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
 
+### 🔧 语言工具
+<!--
+- 语言模块，具体内容见https://github.com/anuraghazra/github-readme-stats
+- hide=javascript,html等，可以隐藏某些语言
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juemuel&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
+### 💻 Stats
 <!--
 - Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
 - hide=contribs,prs，等可以隐藏某些统计数
@@ -21,19 +42,6 @@
 -->
 [![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689)](https://github.com/juemuel/juemuel)
 
-<!--
-- 仓库卡片模块
-- show_owner=true,同时展示git仓库的所有者
-- bg_color=#E76444,#A05689
--->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
-
-<!--
-- 语言模块
-- hide=javascript,html等，可以隐藏某些语言
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juemuel&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
