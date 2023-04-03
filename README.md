@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=juemuel.juemuel)
+
 <!--
 - Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
 - hide=contribs,prs，等可以隐藏某些统计数
