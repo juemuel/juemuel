@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&hide=contribs,prs&count_private=true)](https://github.com/juemuel/Kob-of-Game)
+[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true)](https://github.com/juemuel/juemuel)
+<!--
+- hide=contribs,prs，等可以隐藏某些统计数
+- count_private=true，可以统计私人提交数
+-->
 
 
 <!--
