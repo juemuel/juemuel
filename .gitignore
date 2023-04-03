@@ -1,0 +1,11 @@
+git_deploy_node.sh
+node_modules/
+package-lock.json
+docs/.vitepress/
+*.exe
+*.o
+*.pyc
+*.swp
+.DS_Store
+.idea
+.vscode
