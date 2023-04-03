@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel)](https://github.com/juemuel/Kob-of-Game)
+[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&hide=contribs,prs)](https://github.com/juemuel/Kob-of-Game)
 
 
 <!--
