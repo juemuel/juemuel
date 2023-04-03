@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-- Github统计模块
+- Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
 - hide=contribs,prs，等可以隐藏某些统计数
 - count_private=true，可以统计私人提交数
 - show_icons=true，可以显示图标
