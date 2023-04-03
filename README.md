@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fret+not+over+bygones%2C;the+forward+journey+take.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Fret+not+over+bygones,+the+forward+journey+take.+)](https://git.io/typing-svg)
 
 <!--
 - Github访客统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
