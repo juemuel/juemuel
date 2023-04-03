@@ -7,8 +7,12 @@
 -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemue&show_owner=true&repo=juemuel)](https://github.com/juemuel/juemuel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=juemuel)](https://github.com/juemuel/juemuel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
+<!--
+- show_owner=true,同时展示git仓库的所有者
+-->
+
 
 
 <!--
