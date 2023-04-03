@@ -41,7 +41,7 @@ width="800"  height="3">
 - bg_color=DEG,#~,#~等，可以自定义渐变色
 -->
 [![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689)](https://github.com/juemuel/juemuel)
-
+<img src="https://ghchart.rshah.org/juemuel" alt="juemuel's Github chart" />
 
 
 <!--
