@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel)](https://github.com/juemuel/Kob-of-Game)
+
+
 <!--
 **juemuel/juemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
