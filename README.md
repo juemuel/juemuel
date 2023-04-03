@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=juemuel.juemuel)
+<!--
+- Github访客统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
+- page_id=
+- For README.md file, use ${your.username}.${your.repo.id}
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juemuel.juemuel)
+- For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id},
+-->
 
 <!--
 - Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
