@@ -1,3 +1,18 @@
+<!--
+**juemuel/juemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ### Hi there 👋
 
 <div align="center">
@@ -33,28 +48,21 @@ width="800"  height="3">
 
 ### 💻 Stats
 <!--
-- Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
+- Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats ，另一个网站未知
 - hide=contribs,prs，等可以隐藏某些统计数
 - count_private=true，可以统计私人提交数
 - show_icons=true，可以显示图标
 - theme=dark｜radical等，可以设置主题样式
 - bg_color=DEG,#~,#~等，可以自定义渐变色
 -->
-[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689)](https://github.com/juemuel/juemuel)
-<img src="https://ghchart.rshah.org/juemuel" alt="juemuel's Github chart" />
-
+<div>
+  <img style="display:inline-block;width:45%;" src="https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
+  <img style="display:inline-block;width:41%;margin-left:14%" src="https://github-readme-activity-graph.cyclic.app/graph?username=juemuel&theme=vue&area=true" >
+</div>
 
 <!--
-**juemuel/juemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Github色板模块，具体内容见https://ghchart.rshah.org
+- <img src="https://ghchart.rshah.org/juemuel" alt="juemuel's Github chart" />
 -->
+
+
