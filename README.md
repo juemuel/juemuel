@@ -7,6 +7,10 @@
 -->
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=juemuel)](https://github.com/juemuel/juemuel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
+
+
 <!--
 **juemuel/juemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
