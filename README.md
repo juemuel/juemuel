@@ -6,7 +6,7 @@
 - count_private=true，可以统计私人提交数
 - show_icons=true，可以显示图标
 -->
-[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/juemuel/juemuel)
+[![Juemuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&&bg_color=#E76444,#A05689)](https://github.com/juemuel/juemuel)
 
 <!--
 - 仓库卡片模块
@@ -14,7 +14,7 @@
 - bg_color=#E76444,#A05689
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game&bg_color=#E76444,#A05689)](https://github.com/juemuel/Kob-of-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
 
 <!--
 - 语言模块
