@@ -11,9 +11,10 @@
 <!--
 - 仓库卡片模块
 - show_owner=true,同时展示git仓库的所有者
+- bg_color=#E76444,#A05689
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game&bg_color=#E76444,#A05689)](https://github.com/juemuel/Kob-of-Game)
 
 <!--
 - 语言模块
