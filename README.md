@@ -56,13 +56,11 @@ width="800"  height="3">
 - bg_color=DEG,#~,#~等，可以自定义渐变色
 -->
 <div>
-  <img style="display:inline-block;width:45%;" src="https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
-  <img style="display:inline-block;width:41%;margin-left:14%" src="https://github-readme-activity-graph.cyclic.app/graph?username=juemuel&theme=vue&area=true" >
+  <img style="display:inline-block;width:50%;" src="https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
+  <img style="display:inline-block;width:45%;margin-left:14%" src="https://github-readme-activity-graph.cyclic.app/graph?username=juemuel&theme=vue&area=true" >
+  <img style="width:95%" src="https://ghchart.rshah.org/ff5566/juemuel" alt="juemuel's Github chart" />
 </div>
 
-<!--
-- Github色板模块，具体内容见https://ghchart.rshah.org
-- <img src="https://ghchart.rshah.org/juemuel" alt="juemuel's Github chart" />
--->
+
 
 
