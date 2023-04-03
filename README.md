@@ -7,8 +7,8 @@
 -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=juemuel&show_owner)](https://github.com/juemuel/juemuel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=Kob-of-Game&show_owner)](https://github.com/juemuel/Kob-of-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemue&show_ownerl&repo=juemuel)](https://github.com/juemuel/juemuel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
 
 
 <!--
