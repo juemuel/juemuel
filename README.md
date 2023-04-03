@@ -1,12 +1,15 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fret+not+over+bygones%2C;the+forward+journey+take.+)](https://git.io/typing-svg)
 
 <!--
 - Github访客统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
-- page_id=
+- page_id=配置如下
 - For README.md file, use ${your.username}.${your.repo.id}
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juemuel.juemuel)
 - For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id},
 -->
+
+
 
 <!--
 - Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
