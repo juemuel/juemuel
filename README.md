@@ -38,7 +38,7 @@ width="800"  height="3">
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=stack_share)](https://github.com/juemuel/stack_share)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=share_stack)](https://github.com/juemuel/share_stack)
 
 
 ### 🔧 语言工具
