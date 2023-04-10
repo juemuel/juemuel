@@ -25,6 +25,7 @@ width="800"  height="3">
 
 <!--
 - Github访客统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
+- 公开的域名：github-readme-stats.vercel.app 我的域名：github-readme-stats-q65dvdbmh-juemuel.vercel.app
 - page_id=配置如下
 - For README.md file, use ${your.username}.${your.repo.id}
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juemuel.juemuel)
@@ -37,9 +38,9 @@ width="800"  height="3">
 - show_owner=true,同时展示git仓库的所有者
 - bg_color=#E76444,#A05689
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=share_stack)](https://github.com/juemuel/share_stack)
+[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
+[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
+[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=share_stack)](https://github.com/juemuel/share_stack)
 
 
 ### 🔧 语言工具
@@ -47,7 +48,7 @@ width="800"  height="3">
 - 语言模块，具体内容见https://github.com/anuraghazra/github-readme-stats
 - hide=javascript,html等，可以隐藏某些语言
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juemuel&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/top-langs/?username=juemuel&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Stats
 <!--
@@ -59,7 +60,7 @@ width="800"  height="3">
 - bg_color=DEG,#~,#~等，可以自定义渐变色
 -->
 <div>
-  <img style="display:inline-block;width:50%;" src="https://github-readme-stats.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
+  <img style="display:inline-block;width:50%;" src="https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
   <img style="display:inline-block;width:45%;margin-left:14%" src="https://github-readme-activity-graph.cyclic.app/graph?username=juemuel&theme=vue&area=true" >
   <img style="width:95%" src="https://ghchart.rshah.org/ff5566/juemuel" alt="juemuel's Github chart" />
 </div>
