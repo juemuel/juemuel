@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 -->
 ### Hi there 👋
-- 🔬常用技术：JavaScript、HTML、CSS、Shell、React、Vue、Spring Boot
-- 🌱正在学习：Djiango、Live2D
+- 🔬常用技术：JavaScript、HTML、CSS、Shell、React、React Native、Vue、uni-app、Spring Boot
+- 🌱正在学习：Djiango、Live2D、AIGC
 - ⚡️兴趣爱好: 运动、摄影、旅行交友
 
 <div align="center">
