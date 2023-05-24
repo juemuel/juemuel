@@ -40,15 +40,15 @@ width="800"  height="3">
 -->
 
 #### 正在维护
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=share_stack)](https://github.com/juemuel/share_stack)
 [![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=learning_stack)](https://github.com/juemuel/learning_stack)
 [![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
 [![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=common_config)](https://github.com/juemuel/common_config)
 [![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=assets_lib)](https://github.com/juemuel/assets_lib)
 [![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=juemuel)](https://github.com/juemuel/juemuel)
 
-#### 成品项目（正在整理中）
+#### 成品展示项目（正在整理中）
 [![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
+[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=share_stack)](https://github.com/juemuel/share_stack)
 
 ### 🔧 语言工具
 <!--
