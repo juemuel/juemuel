@@ -68,7 +68,7 @@ width="800"  height="3">
 -->
 <div>
   <img style="display:inline-block;width:50%;" src="https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
-  <img style="display:inline-block;width:45%;margin-left:14%" src="https://github-readme-activity-graph.cyclic.app/graph?username=juemuel&theme=vue&area=true" >
+  <img style="display:inline-block;width:45%;margin-left:14%" src="https://github-readme-activity-graph.vercel.app/graph?username=juemuel&theme=vue&area=true" >
   <img style="width:95%" src="https://ghchart.rshah.org/ff5566/juemuel" alt="juemuel's Github chart" />
 </div>
 
