@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 
 -->
 ### Hi there 👋
-- 🔬熟悉：**JavaScript、HTML、CSS**；**React**、**Vue**；React Native、uni-app；**Node**、Spring Boot；HTTP、Ajax、Fetch、WebSocket、WebRTC；Linux、Shell、Docker；
-- 🌱计划：Djiango、Live2D、AIGC、Web3
-- ⚡️兴趣爱好：运动、摄影、旅行交友
+- ✨语言：**JavaScript**、JAVA、Python、C#
+- 🔬熟悉：**JavaScript、HTML、CSS**；**React**、**Vue**；React Native、uni-app、Cordova；**Node、Spring Boot**；**Axios、Fetch**、Ajax、**WebSocket**、WebRTC；Shell、Docker、Nginx；
+- 🌱计划：Unity3D、Djiango、Live2D、AIGC、Web3
+- ⚡️兴趣爱好：游泳、摄影
 
 <div align="center">
 
