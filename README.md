@@ -2,66 +2,24 @@
 
 # 你好，我是 Juemuel
 
-**偏前端的工程型开发者：关注好看的交互、清晰的工程结构，以及能被持续复用的技术沉淀。**
+**我喜欢把想法做成可以打开、可以体验、也可以继续迭代的作品，并持续性的迭代技术分享与体验**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=820&lines=%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B+%7C+Vue+%26+React;%E5%88%9B%E6%84%8F%E4%BA%A4%E4%BA%92+%7C+Canvas+%26+3D;%E6%8C%81%E7%BB%AD%E6%B2%89%E6%B7%80+%7C+%E7%AC%94%E8%AE%B0+%26+%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=820&lines=%E4%BD%9C%E5%93%81%E9%9B%86+%7C+%E4%BA%A4%E4%BA%92+%7C+Demo;%E5%88%86%E4%BA%AB%E7%AB%99+%7C+%E7%AC%94%E8%AE%B0+%7C+%E5%A4%8D%E7%9B%98;%E5%AD%A6%E4%B9%A0%E4%BB%93%E5%BA%93+%7C+%E8%B7%AF%E7%BA%BF+%7C+%E5%AE%9E%E8%B7%B5)](https://git.io/typing-svg)
 
-[![作品集](https://img.shields.io/badge/Portfolio-作品集-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
-[![技术分享站](https://img.shields.io/badge/Share%20Stack-技术分享站-2563EB?style=for-the-badge&logo=vitepress&logoColor=white)](https://juemuel.github.io/share_stack/)
-[![学习仓库](https://img.shields.io/badge/Learning%20Stack-学习仓库-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel/learning_stack)
-[![GitHub](https://img.shields.io/badge/GitHub-juemuel-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel)
+</div>
+
+## 持续迭代
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-作品集与主页-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
+[![Demo Gallery](https://img.shields.io/badge/Demo%20Gallery-演示作品与实验-0F766E?style=for-the-badge&logo=javascript&logoColor=white)](#演示-demo)
+[![Share Stack](https://img.shields.io/badge/Share%20Stack-技术文章与工作流-2563EB?style=for-the-badge&logo=vitepress&logoColor=white)](https://juemuel.github.io/share_stack/)
+[![Learning Stack](https://img.shields.io/badge/Learning%20Stack-学习路线与项目复盘-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel/learning_stack)
 
 </div>
 
 ---
-
-## 面试导览
-
-> 如果你是从简历或面试中点进来的，可以按这个顺序快速了解我。
-
-**01 / 先看作品集**
-
-[![Portfolio](https://img.shields.io/badge/打开作品集-joyful--boba--455906.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
-
-视觉呈现、前端交互、项目组织方式，以及我希望别人第一眼看到的“作品感”。
-
-**02 / 再看技术分享站**
-
-[![Share Stack](https://img.shields.io/badge/打开分享站-juemuel.github.io%2Fshare__stack-2563EB?style=for-the-badge&logo=vitepress&logoColor=white)](https://juemuel.github.io/share_stack/)
-
-基于 VitePress 的个人技术站，沉淀前端笔记、工作流、面经和日常技术记录。
-
-**03 / 最后看学习仓库**
-
-[![Learning Stack](https://img.shields.io/badge/打开学习仓库-learning__stack-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel/learning_stack)
-
-系统化整理前端、服务端、移动端、图形、DevOps 等方向的 Demo、README 和学习路线。
-
-## 我在构建什么
-
-- **前端产品与工程化**：Vue / React / Vite / VitePress，关注组件拆分、响应式体验、文档站和工程结构。
-- **有记忆点的交互体验**：Canvas、D3、Three.js、可视化 Demo、小型游戏与创意页面。
-- **可跑起来的全栈实践**：Node.js、Python、WebSocket、WebRTC、文件服务、部署与服务端基础。
-- **面试友好的知识沉淀**：把零散 Demo 整理成项目卡片、运行指南、技术要点和复盘说明。
-
-## 代表作品
-
-<a href="https://github.com/juemuel/learning_stack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=learning_stack&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=F97316" alt="learning_stack" />
-</a>
-<a href="https://github.com/juemuel/share_stack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=share_stack&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=F97316" alt="share_stack" />
-</a>
-
-<br />
-<br />
-
-**更多可展示 Demo**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-React%20%2B%20Tailwind%20%2B%20Netlify-111827?style=flat-square&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
-[![React Movie Lib](https://img.shields.io/badge/React%20Movie%20Lib-React%20%2B%20API-61DAFB?style=flat-square&logo=react&logoColor=111)](https://comfy-haupia-02c33d.netlify.app/)
-[![Vue Weather App](https://img.shields.io/badge/Vue%20Weather%20App-Vue%20%2B%20API-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://6476fc1bd18d7b7578c75d70--cozy-frangipane-de6138.netlify.app/)
-[![Ori Canvas Game](https://img.shields.io/badge/Ori%20Canvas%20Game-Canvas%20%2B%20JavaScript-F97316?style=flat-square&logo=javascript&logoColor=111)](https://playful-jelly-e3d85f.netlify.app/)
 
 ## 技术栈
 
@@ -82,12 +40,51 @@
 
 </div>
 
-## 最近关注
+## 我喜欢做的东西
 
-- 把 GitHub Profile、分享站和学习仓库整理成面试时能顺滑展示的一套作品系统。
-- 持续补全 `learning_stack` 的项目卡片、运行方式、技术要点和复盘说明。
-- 在 `share_stack` 中整理前端面试题、工程流、组件示例和技术分享文章。
-- 继续探索 Canvas / D3 / Three.js 方向的创意 Web 交互。
+- **可展示的页面和小应用**：作品集、天气应用、电影库、文档站、组件示例。
+- **有画面感的交互实验**：Canvas、D3、Three.js、图片处理、小游戏、可视化 Demo。
+- **能讲清楚的技术沉淀**：把 Demo、踩坑、工作流和学习路线整理成 README 与文章。
+- **可运行的全栈练习**：Node.js、Python、WebSocket、WebRTC、文件服务和部署实践。
+
+## 演示 Demo
+
+<div align="center">
+  <a href="https://github.com/juemuel/learning_stack/tree/master/projects/chat/vue-chat-demo">
+    <img width="48%" height="220" src="https://raw.githubusercontent.com/juemuel/learning_stack/master/projects/chat/vue-chat-demo/src/assets/images/web-demo-base.png" alt="Vue Chat Demo preview" style="object-fit: cover; border-radius: 10px;" />
+  </a>
+  <a href="https://github.com/juemuel/learning_stack/tree/master/frontends/threejs/pic-to-3d">
+    <img width="48%" height="220" src="https://raw.githubusercontent.com/juemuel/learning_stack/master/frontends/threejs/pic-to-3d/demo/exam-test-result.webp" alt="Pic to 3D preview" style="object-fit: cover; border-radius: 10px;" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/juemuel/learning_stack/tree/master/frontends/web-components/video-gallery">
+    <img width="48%" height="220" src="https://raw.githubusercontent.com/juemuel/learning_stack/master/frontends/web-components/video-gallery/images/image1.jpeg" alt="Video Gallery preview" style="object-fit: cover; border-radius: 10px;" />
+  </a>
+  <a href="https://github.com/juemuel/learning_stack/tree/master/frontends/vue/weather-app-demo">
+    <img width="48%" height="220" src="https://raw.githubusercontent.com/juemuel/learning_stack/master/frontends/vue/weather-app-demo/src/assets/back.jpg" alt="Vue Weather App preview" style="object-fit: cover; border-radius: 10px;" />
+  </a>
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-React%20%2B%20Tailwind%20%2B%20Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
+[![React Movie Lib](https://img.shields.io/badge/React%20Movie%20Lib-React%20%2B%20API-61DAFB?style=for-the-badge&logo=react&logoColor=111)](https://comfy-haupia-02c33d.netlify.app/)
+[![Vue Weather App](https://img.shields.io/badge/Vue%20Weather%20App-Vue%20%2B%20API-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://6476fc1bd18d7b7578c75d70--cozy-frangipane-de6138.netlify.app/)
+[![Ori Canvas Game](https://img.shields.io/badge/Ori%20Canvas%20Game-Canvas%20%2B%20JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=111)](https://playful-jelly-e3d85f.netlify.app/)
+
+</div>
+
+
+
+## 最近在整理
+
+- 让 `learning_stack` 更像一张可浏览的学习地图，而不是零散 Demo 集合。
+- 让 `share_stack` 更适合沉淀文章、面经、工作流和组件示例。
+- 给更多 Demo 补上预览图、运行方式和复盘说明。
 
 ## GitHub 动态
 
