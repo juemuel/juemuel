@@ -1,77 +1,115 @@
-<!--
-**juemuel/juemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 你好，我是 Juemuel
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+**偏前端的工程型开发者：关注好看的交互、清晰的工程结构，以及能被持续复用的技术沉淀。**
 
--->
-### Hi there 👋
-- ✨语言：**JavaScript**、JAVA、Python、C#
-- 🔬熟悉：**JavaScript、HTML、CSS**；**React**、**Vue**；React Native、uni-app、Cordova；**Node、Spring Boot**；**Axios、Fetch**、Ajax、**WebSocket**、WebRTC；Shell、Docker、Nginx；
-- 🌱计划：Unity3D、Djiango、Live2D、AIGC、Web3
-- ⚡️兴趣爱好：游泳、摄影
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=820&lines=%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B+%7C+Vue+%26+React;%E5%88%9B%E6%84%8F%E4%BA%A4%E4%BA%92+%7C+Canvas+%26+3D;%E6%8C%81%E7%BB%AD%E6%B2%89%E6%B7%80+%7C+%E7%AC%94%E8%AE%B0+%26+%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
+
+[![作品集](https://img.shields.io/badge/Portfolio-作品集-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
+[![技术分享站](https://img.shields.io/badge/Share%20Stack-技术分享站-2563EB?style=for-the-badge&logo=vitepress&logoColor=white)](https://juemuel.github.io/share_stack/)
+[![学习仓库](https://img.shields.io/badge/Learning%20Stack-学习仓库-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel/learning_stack)
+[![GitHub](https://img.shields.io/badge/GitHub-juemuel-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel)
+
+</div>
+
+---
+
+## 面试导览
+
+> 如果你是从简历或面试中点进来的，可以按这个顺序快速了解我。
+
+**01 / 先看作品集**
+
+[![Portfolio](https://img.shields.io/badge/打开作品集-joyful--boba--455906.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
+
+视觉呈现、前端交互、项目组织方式，以及我希望别人第一眼看到的“作品感”。
+
+**02 / 再看技术分享站**
+
+[![Share Stack](https://img.shields.io/badge/打开分享站-juemuel.github.io%2Fshare__stack-2563EB?style=for-the-badge&logo=vitepress&logoColor=white)](https://juemuel.github.io/share_stack/)
+
+基于 VitePress 的个人技术站，沉淀前端笔记、工作流、面经和日常技术记录。
+
+**03 / 最后看学习仓库**
+
+[![Learning Stack](https://img.shields.io/badge/打开学习仓库-learning__stack-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juemuel/learning_stack)
+
+系统化整理前端、服务端、移动端、图形、DevOps 等方向的 Demo、README 和学习路线。
+
+## 我在构建什么
+
+- **前端产品与工程化**：Vue / React / Vite / VitePress，关注组件拆分、响应式体验、文档站和工程结构。
+- **有记忆点的交互体验**：Canvas、D3、Three.js、可视化 Demo、小型游戏与创意页面。
+- **可跑起来的全栈实践**：Node.js、Python、WebSocket、WebRTC、文件服务、部署与服务端基础。
+- **面试友好的知识沉淀**：把零散 Demo 整理成项目卡片、运行指南、技术要点和复盘说明。
+
+## 代表作品
+
+<a href="https://github.com/juemuel/learning_stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=learning_stack&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=F97316" alt="learning_stack" />
+</a>
+<a href="https://github.com/juemuel/share_stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juemuel&repo=share_stack&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=F97316" alt="share_stack" />
+</a>
+
+<br />
+<br />
+
+**更多可展示 Demo**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-React%20%2B%20Tailwind%20%2B%20Netlify-111827?style=flat-square&logo=netlify&logoColor=00C7B7)](https://joyful-boba-455906.netlify.app/)
+[![React Movie Lib](https://img.shields.io/badge/React%20Movie%20Lib-React%20%2B%20API-61DAFB?style=flat-square&logo=react&logoColor=111)](https://comfy-haupia-02c33d.netlify.app/)
+[![Vue Weather App](https://img.shields.io/badge/Vue%20Weather%20App-Vue%20%2B%20API-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://6476fc1bd18d7b7578c75d70--cozy-frangipane-de6138.netlify.app/)
+[![Ori Canvas Game](https://img.shields.io/badge/Ori%20Canvas%20Game-Canvas%20%2B%20JavaScript-F97316?style=flat-square&logo=javascript&logoColor=111)](https://playful-jelly-e3d85f.netlify.app/)
+
+## 技术栈
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=1000&lines=Fret+not+over+bygones,+the+forward+journey+take.+)](https://git.io/typing-svg)
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
-width="800"  height="3">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![VitePress](https://img.shields.io/badge/VitePress-5C73E7?style=flat-square&logo=vitepress&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
+
 </div>
 
-<!--
-- Github访客统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats
-- 公开的域名：github-readme-stats.vercel.app 我的域名：github-readme-stats-q65dvdbmh-juemuel.vercel.app
-- page_id=配置如下
-- For README.md file, use ${your.username}.${your.repo.id}
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juemuel.juemuel)
-- For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id},
--->
+## 最近关注
 
-### 👋 欢迎来访
-<!--
-- 仓库卡片模块
-- show_owner=true,同时展示git仓库的所有者
-- bg_color=#E76444,#A05689
--->
+- 把 GitHub Profile、分享站和学习仓库整理成面试时能顺滑展示的一套作品系统。
+- 持续补全 `learning_stack` 的项目卡片、运行方式、技术要点和复盘说明。
+- 在 `share_stack` 中整理前端面试题、工程流、组件示例和技术分享文章。
+- 继续探索 Canvas / D3 / Three.js 方向的创意 Web 交互。
 
-#### 持续维护
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=learning_stack)](https://github.com/juemuel/learning_stack)
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=magic_kit)](https://github.com/juemuel/magic_kit)
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=common_config)](https://github.com/juemuel/common_config)
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=assets_lib)](https://github.com/juemuel/assets_lib)
+## GitHub 动态
 
-#### 成品展示项目（正在整理中）
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=Kob-of-Game)](https://github.com/juemuel/Kob-of-Game)
-[![Readme Card](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/pin/?username=juemuel&show_owner=true&repo=share_stack)](https://github.com/juemuel/share_stack)
+<div align="center">
 
-### 🔧 语言工具
-<!--
-- 语言模块，具体内容见https://github.com/anuraghazra/github-readme-stats
-- hide=javascript,html等，可以隐藏某些语言
--->
-[![Top Langs](https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api/top-langs/?username=juemuel&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=juemuel&show_icons=true&count_private=true&hide=contribs&theme=transparent&hide_border=true&title_color=2563EB&icon_color=F97316&text_color=334155" alt="Juemuel 的 GitHub 统计" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juemuel&layout=compact&hide=java&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155" alt="Juemuel 的常用语言" />
 
-### 💻 Stats
-<!--
-- Github统计模块，具体内容见https://github.com/anuraghazra/github-readme-stats ，另一个网站未知
-- hide=contribs,prs，等可以隐藏某些统计数
-- count_private=true，可以统计私人提交数
-- show_icons=true，可以显示图标
-- theme=dark｜radical等，可以设置主题样式
-- bg_color=DEG,#~,#~等，可以自定义渐变色
--->
-<div>
-  <img style="display:inline-block;width:50%;" src="https://github-readme-stats-q65dvdbmh-juemuel.vercel.app/api?username=juemuel&count_private=true&hide=contribs,prs&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E76444,A05689" >
-  <img style="display:inline-block;width:45%;margin-left:14%" src="https://github-readme-activity-graph.vercel.app/graph?username=juemuel&theme=vue&area=true" >
-  <img style="width:95%" src="https://ghchart.rshah.org/ff5566/juemuel" alt="juemuel's Github chart" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juemuel/juemuel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juemuel/juemuel/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub 贡献热力图贪吃蛇动画" src="https://raw.githubusercontent.com/juemuel/juemuel/output/github-contribution-grid-snake.svg" />
+</picture>
 
+[![Juemuel 的 GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=juemuel&theme=github-compact&hide_border=true&area=true&custom_title=%E6%9C%80%E8%BF%91%20GitHub%20%E5%8A%A8%E6%80%81)](https://github.com/juemuel)
 
+---
 
+<div align="center">
+
+**谢谢来访。希望这里能让你快速看到：我在学习、在构建，也在把过程沉淀成可以复用的东西。**
+
+</div>
